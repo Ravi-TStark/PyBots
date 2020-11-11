@@ -1,0 +1,4 @@
+IMDbPY==2020.9.25
+PyGObject==3.38.0
+pyttsx3==2.90
+requests==2.24.0
